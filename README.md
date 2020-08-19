@@ -1,5 +1,5 @@
 # Solidity-study-notes
-the notes for during studying solidity
+the notes during studying solidity
 
 View and pure:
 Starting with solc 0.4.17, constant is depricated in favor of two new and more specific modifiers.
